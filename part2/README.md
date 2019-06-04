@@ -9,3 +9,5 @@
 <br>- Demonstrate use of the class attribute and class selectors
 <br>- Demonstrate use of images
 <br>- Demonstrate use of hyperlinks
+<br>
+<br>Images not included
