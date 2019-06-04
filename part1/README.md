@@ -4,3 +4,5 @@
 <br>- To complete this project, you’ll need to submit your notes as an HTML file using the tags you learned about in these lessons, such as `<p>`,`<div>`, `<h1>`, `<b>`, `<em>`, and `<span>`
 <br>- Keep it simple. CSS is used for styling and is not necessary for this project
 <br>- Make sure you use proper HTML Document structure for your code
+<br>
+<br>Notes are in Portuguese.
