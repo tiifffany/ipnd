@@ -1,5 +1,5 @@
 # ipnd
-This repo contains the 4 projects for Udacity's Introduction to Programming Nanodegree program.
+This repo contains the 4 projects for Udacity's Introduction to Programming Nanodegree program:
 
 <b>Part 1: Learn to Code</b>
 <br>Project: Getting Started with HTML
