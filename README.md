@@ -2,7 +2,7 @@
 This repo contains the 4 projects for Udacity's Introduction to Programming Nanodegree program:
 
 <b>Part 1: Learn to Code</b>
-<br>Project: <a href="https://github.com/tiifffany/ipnd/blob/master/part1/project1.html">Getting Started with HTML</a>
+<br>Project: <a href="https://tiifffany.github.io/ipnd/part1/project1.html">Getting Started with HTML</a>
 
 <b>Part 2: Make a Stylish Webpage</b>
 <br>Project: Make a Web Page
