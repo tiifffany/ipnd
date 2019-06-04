@@ -1,5 +1,5 @@
 # ipnd
-This repo contains the 4 projects for Udacity's Introduction to Programming Nanodegree program. 
+This repo contains the 4 projects for Udacity's Introduction to Programming Nanodegree program. Links open in new tabs.
 <br>Student: Tiffany Shu
 
 <b>Part 1: Learn to Code</b>
