@@ -1,6 +1,6 @@
 # ipnd
 This repo contains the 4 projects for Udacity's Introduction to Programming Nanodegree program. 
-<br>Student: Tiffany Shu
+<br>Student: Tiffany Shu (beginner)
 
 <b>Part 1: Learn to Code</b>
 <br>Project: <a href="https://tiifffany.github.io/ipnd/part1/project1.html" target="_blank">Getting Started with HTML</a>
